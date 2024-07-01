@@ -1,3 +1,7 @@
-# This is index.md
-## This is GitHub Pages
+# モデルTの資料集
+## 他ページへのリンク
+[参考資料系](https://xxx.com)
+[基本設計系](https://xxxx.com)
 
+## このページの位置付け
+これは、モデルTの皆さんが楽しく活動するためのものです
